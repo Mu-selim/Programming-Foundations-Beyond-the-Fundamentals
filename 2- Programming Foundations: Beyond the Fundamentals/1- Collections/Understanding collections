@@ -1,0 +1,7 @@
+Collection:
+    grouping multiple items together and storing them in a single name, called a variabele
+
+Advantages:
+    1. Uses your code structure to indicate that multiple pieces of data are related
+    2. Avoids creating a potentially hugre number of variables to track within our data
+    3. Offers simplifed syntax

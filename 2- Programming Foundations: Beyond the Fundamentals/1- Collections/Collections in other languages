@@ -1,0 +1,11 @@
+In python collections ,for example list, lets you to store in data type
+    list = [
+        "Mu",
+        454, 
+        True
+    ]
+but in some languages like C++ the data in a collection must have the same data type and
+there isn't combination of data types
+
+Also in python there are mutable collects like ,lists and dictionaries, and immutable
+collection like ,tuple, that when you crate it you can not change it

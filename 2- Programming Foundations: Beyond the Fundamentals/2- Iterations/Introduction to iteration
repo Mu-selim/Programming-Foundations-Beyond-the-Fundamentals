@@ -1,0 +1,13 @@
+Iteration:
+    Repeats the same procedure multiple times untill it reaches a specified endpoint
+
+Loop:
+    Code that iterates, move from beginning to end of the process, then strating over
+
+-> to write code that iterates you need:
+1. Specify the data that beginning iterated through
+2. What should happen to data during each iteration
+3. Indicate when the loop should stop
+
+Infinte Loop:
+    Bug that can occur when the ending condition is omitted or specifed incorrectly

@@ -1,0 +1,10 @@
+The Input and Output
+
+-> Input: is the data that get in the program to work with
+          and make procees in it, it also may be numbers, 
+          letter, special characters, etc.
+
+-> Output: is the data that came from all the procees done
+           in the program.
+
+in Python we can read and write data from/to files or in terminal 
